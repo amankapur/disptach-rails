@@ -8,7 +8,7 @@ gem 'rails', '3.2.1'
 gem 'therubyracer'
 gem 'nokogiri'
 gem 'thin'
-
+gem 'rufus-scheduler'
 group :test do
   gem 'annotate'
 end
